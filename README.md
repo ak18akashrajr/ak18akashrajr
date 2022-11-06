@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Akash_Raj_R_ak18
-- 👀 I’m interested in .Machine Learning..
+- 👀 I’m interested in .Web Dev..
 - 🌱 I’m currently learning to be a full stack web dev..
-- 💞️ I’m looking to collaborate on Google...
-- 📫 How to reach me .
-instagram.com/akash_raj_r
+- 💞️ 
 ..                        
 
 

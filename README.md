@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash_Raj_R_ak18
+- 👋 Hi, I’m Akash_Raj_R
 - 👀 I’m interested in .Web Dev..
 - 🌱 I’m currently learning to be a full stack web dev..
 - 💞️ 

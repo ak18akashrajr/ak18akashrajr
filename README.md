@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Akash_Raj_R
-- 👀 I’m interested in .Web Dev..
+- 👀 I’m interested in .Web Dev? Machine Learning..
 - 🌱 I’m currently learning to be a full stack web dev..
-- 💞️ 
+- 💞️ livinTheLifeILove💙
+- ❤️💙
 ..                        
 
 

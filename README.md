@@ -7,6 +7,8 @@
         - next_js(13)
         - tailwind_css
         - python
+        - figma
+        - ux case-study 
 - 🐣 Newbie to Machine Learning.... 
         
 - 💞️❤️💙

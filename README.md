@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Akash_Raj_R
-- 👀 I’m interested in .Web Dev? Machine Learning..
-- 🌱 I’m currently learning to be a full stack web dev..
-- 💞️ livinTheLifeILove💙
-- ❤️💙
+- 🏠 From Chennai, Tamil Nadu 
+- 👀 I’m interested in Web Dev, Machine Learning..
+- 🌱 I’m currently learning to full stack web dev!..
+- 🧑‍💻 Stack 
+        - react_js
+        - next_js(13)
+        - tailwind_css
+        - python
+- 🐣 Newbie to Machine Learning.... 
+        
+- 💞️❤️💙
+- 
 ..                        
 
 

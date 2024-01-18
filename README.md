@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akash_Raj_R
 
-Welcome to my GitHub profile! I'm a passionate individual based in Chennai, Tamil Nadu, with a keen interest in the dynamic fields of Web Development and Machine Learning.
+**Welcome to my GitHub profile! I'm a passionate individual based in Chennai, Tamil Nadu, with a keen interest in the dynamic fields of Web Development and Machine Learning.**
 
 ## About Me
 

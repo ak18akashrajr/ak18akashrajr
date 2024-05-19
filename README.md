@@ -29,7 +29,7 @@ I'm diving into the world of Full Stack Web Development, exploring the realms of
 
 ## Connect with Me
 
-Feel free to explore my repositories, and if you share a passion for technology, web development, or machine learning, let's connect! 💞❤️💙
+Feel free to explore my repositories, and if you share a passion for technology, web development, or machine learning, let's connect!
 
 ## Let's Collaborate!
 

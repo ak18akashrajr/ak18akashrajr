@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akash_Raj_R
+# Hi there! 👋 I'm Akash_Raj_R🧑‍💻
 
 **Welcome to my GitHub profile! I'm a passionate individual based in Chennai, Tamil Nadu, with a keen interest in the dynamic fields of Web Development and Machine Learning.**
 
@@ -35,7 +35,6 @@ Feel free to explore my repositories, and if you share a passion for technology,
 
 I'm open to collaborations, discussions, and learning opportunities. If you have suggestions, insights, or just want to say hello, don't hesitate to reach out. Let's learn and grow together! 🚀
 
-Happy coding! 🧑‍💻
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ak18akashrajr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak18akashrajr&theme=radical&hide_border=false)<br/>

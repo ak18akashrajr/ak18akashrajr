@@ -1,55 +1,31 @@
-# Hi there! 👋 I'm Akash_Raj_R🧑‍💻
+# Akash Raj R
 
-**Welcome to my GitHub profile! I'm a passionate individual based in Chennai, Tamil Nadu, with a deep expertise in Web Development, Data Analytics, and Machine Learning.**
+Data Engineer | AWS
 
-## About Me
+## Interests
 
-- 🏠 **Location:** Chennai, Tamil Nadu
-- 👀 **Interests:** Web Development, Data Analytics, Machine Learning
-- 🌱 **Learning:** Full Stack Web Development
-
-## Tech Stack
-
-Here's a glimpse of the technologies I'm currently working with:
-
-- 💻 React.js
-- ⏭️ Next.js (v13)
-- 🎨 Tailwind CSS
-- 🐍 Python
-- 📊 Data Analytics (Pandas, NumPy, Matplotlib)
-- 🧠 Machine Learning (Scikit-Learn, TensorFlow, Keras)
-- 🖌️ Figma
-- 📊 UX Case Study
+Data Engineering, Data Analysis, and AWS Cloud — learning enterprise-grade data engineering practices and how to apply them to real-world business problems.
 
 ## Experience
 
-I'm diving deep into Full Stack Web Development, exploring React.js, Next.js, and Tailwind CSS to create seamless, visually appealing web applications.
+I work at Prodapt on enterprise AI initiatives for a leading US telecom provider, building Agentic AI and LLM-powered systems in the Customer Experience domain that cut handling time and lift resolution rates.
 
-## Expertise in Data Analytics and Machine Learning
+A large part of this work sits on Salesforce Lightning, where I design data ingestion and integration flows using Microsoft Graph API, enterprise connectors, and AWS SQS. The heavier processing runs on AWS Lambda and EC2, with AWS Bedrock powering the generative AI layer, so the pipelines stay reliable and the business outcomes stay measurable.
 
-I am well-versed in **Data Analytics** and **Machine Learning**, utilizing powerful tools and techniques to extract insights, build predictive models, and solve complex business problems.
+I turn messy data into decisions that actually move money — building AI and analytics for finance, with a quiet obsession for clarity, trust, and the numbers behind the noise.
 
-## Connect with Me
+## Tech Stack
 
-Feel free to explore my repositories, and if you share a passion for technology, web development, data analytics, or machine learning, let's connect!
+**Languages:** TypeScript, Python
 
-## Let's Collaborate!
+**Data & Cloud:** AWS (Lambda, EC2, SQS, Bedrock), Supabase / PostgreSQL, Microsoft Graph API
 
-I'm open to collaborations, discussions, and learning opportunities. If you have suggestions, insights, or just want to say hello, don't hesitate to reach out. Let's learn and grow together! 🚀
+**AI & Agents:** Model Context Protocol (MCP), LLM agent architectures (Claude, Groq), Agentic RAG
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ak18akashrajr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak18akashrajr&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak18akashrajr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Frameworks & Tools:** React, Node.js, Vite, TailwindCSS, Vitest, Pandas, scikit-learn
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ak18akashrajr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=ak18akashrajr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-ak18akashrajr/ak18akashrajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-readme-stats.vercel.app/api?username=ak18akashrajr&theme=default&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak18akashrajr&theme=default&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak18akashrajr&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
